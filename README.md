@@ -1,16 +1,2 @@
 ### Hi there 👋
 
-<!--
-**deekshithanand/deekshithanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on ... Flask and React
-- 🌱 I’m currently learning ... Deep Learning and little bit of Machine Learning
-- 👯 I’m looking to collaborate on ... Web developement projects/Data Science related projects / Software Engineering Roles.
-<!-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
